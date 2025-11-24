@@ -6,3 +6,4 @@ llama-parse==0.4.2
 llama-index-core==0.10.30
 python-dotenv==1.0.1
 nest_asyncio==1.6.0
+pypdf
